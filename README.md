@@ -19,8 +19,9 @@ Android Studio
  <img src="SS/3.jpg" width="250"> 
 * Kayıt İşlemi Gerçekleştirildikten Sonra Kullanıcı Giriş Ekranından  Giriş Yapabilir.
 * <img src="SS/4.jpg" width="250"> 
-* Bu Menüden istenilen Ajans seçilerek o ajansa ait güncel desteklerin listelenmesi sağlanır.
-*  ![logo](/SS/2.png)
+* Eğer Kullanıcı Şifresini Unuttuysa Şifremi Unuttum Menüsüyle Şifresini Yeniliyebilir.
+* <img src="SS/5.jpg" width="250"> 
+<img src="SS/6.jpg" width="250"> 
 * Listelenen desteklerden birine tıklanıldığında ise WebView içerisinde tıklanılan destek programı gösterilir.
 *  ![logo](/SS/3.png)
 *  ![logo](/SS/4.png)
