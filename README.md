@@ -12,7 +12,7 @@ Android Studio
 
 # Program Kullanımı
 * Program ilk açılışta Güncel Filmlerin Listesi Gözükür. 
-* ![logo](/SS/1.png)
+* ![logo](/SS/1.jpg)
 * Yan Panelde açılır menümüz görüntülenmektedir.
 * Yan taraftaki menü kullanım kullanım kolaylığı sağlamak için Coğrafi Bölgelere ayrılmıştır
 *  ![logo](/SS/6.png)
