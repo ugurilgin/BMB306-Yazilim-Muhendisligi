@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Filmseven</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="usernameerror">Enter Valid Username</string>
+    <string name="emailerror">Enter Valid Email</string>
+    <string name="passworderror">Minimum eight characters, at least one letter and one number</string>
+    <string name="nameerror">Enter Valid Name</string>
+    <string name="surnameerror">Enter Valid Surname</string>
+    <string name="moviename">Enter Valid Movie Name</string>
+    <string name="moviecategory">Select Movie Category</string>
+    <string name="moviedate">Enter Valid Movie Date</string>
+    <string name="moviecast">Enter Valid Movie Cast</string>
+    <string name="moviedetail">Enter Valid Movie Detail</string>
+    <string name="sanswererror">Enter Valid Security Answer</string>
+    <string name="passwordresetcodeerror">Enter Valid Password Reset Code</string>
+</resources>

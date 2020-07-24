@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:checkable="false"
+            android:checked="false"
+            android:enabled="true"
+            android:icon="@drawable/login"
+            android:title="Kullanıcı İşlemleri "
+            android:visible="true">
+            <menu>
+                <group
+                    android:id="@+id/menu_top2"
+                    android:icon="@drawable/login"
+                    android:checkableBehavior="single">
+                    <item
+                        android:id="@+id/login"
+                        android:icon="@drawable/login"
+                        android:onClick="login"
+                        android:title="Giriş Yap" />
+                    <item
+                        android:id="@+id/logout"
+                        android:icon="@drawable/logout"
+                        android:onClick="logout"
+                        android:title="Çıkış" />
+                    <item
+                        android:id="@+id/register"
+                        android:icon="@drawable/register"
+                        android:onClick="register"
+                        android:title="Kayıt Ol" />
+                </group>
+            </menu>
+        </item>
+    </group>
+    <item
+        android:id="@+id/addmovie"
+        android:icon="@drawable/addmovie"
+        android:onClick="addmovie"
+        android:title="Film Ekle" />
+    <item
+        android:id="@+id/editmovie"
+        android:icon="@drawable/editmovie"
+        android:onClick="editmovie"
+        android:title="Film Düzenle" />
+    <item
+        android:id="@+id/deletemovie"
+        android:icon="@drawable/deletemovie"
+        android:onClick="deletemovie"
+        android:title="Film Kaldır" />
+
+    <item
+        android:id="@+id/viewmovie"
+        android:icon="@drawable/viewmovie"
+        android:onClick="showmovies"
+        android:title="Filmleri Görüntüle" />
+    <item
+        android:id="@+id/kulizin"
+        android:icon="@drawable/userper"
+        android:onClick="showusers"
+        android:title="Kullanıcılar" />
+    <item
+        android:id="@+id/kuladd"
+        android:icon="@drawable/loupe"
+        android:onClick="adduser"
+        android:title="Kullanıcı Ekle" />
+
+
+
+
+
+
+
+</menu>

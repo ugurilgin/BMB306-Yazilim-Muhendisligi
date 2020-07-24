@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "740968900174",
+    "firebase_url": "https://filmsever-e9eb0.firebaseio.com",
+    "project_id": "filmsever-e9eb0",
+    "storage_bucket": "filmsever-e9eb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740968900174:android:18cc8cc1afa70b19bc451f",
+        "android_client_info": {
+          "package_name": "com.filmseven.htmlparse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740968900174-peuj3k7ppm23vk93sokvme7k4m72ggg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRLwk5hMsrhXH9kApr2cjOwox8k2dcsCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740968900174-peuj3k7ppm23vk93sokvme7k4m72ggg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740968900174:android:54547cc6e5e75619bc451f",
+        "android_client_info": {
+          "package_name": "com.vipshah.remixermovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740968900174-peuj3k7ppm23vk93sokvme7k4m72ggg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRLwk5hMsrhXH9kApr2cjOwox8k2dcsCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740968900174-peuj3k7ppm23vk93sokvme7k4m72ggg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.filmseven.htmlparse">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher2"
+        android:label="FilmSeven"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.filmseven.htmlparse.MovieEditList" />
+        <activity android:name="com.filmseven.htmlparse.UserList" />
+        <activity android:name="com.filmseven.htmlparse.UserEdit" />
+        <activity android:name="com.filmseven.htmlparse.UserAdd" />
+        <activity android:name="com.filmseven.htmlparse.MovieDeleteList" />
+        <activity android:name="com.filmseven.htmlparse.Profile" />
+        <activity android:name="com.filmseven.htmlparse.admin" />
+        <activity android:name="com.filmseven.htmlparse.User" />
+        <activity android:name="com.filmseven.htmlparse.Register" />
+        <activity android:name="com.filmseven.htmlparse.Login" />
+        <activity android:name="com.filmseven.htmlparse.ForgotPassword" />
+        <activity android:name="com.filmseven.htmlparse.ForgotPasswordNext" />
+        <activity android:name="com.filmseven.htmlparse.ForgotChangePassword" />
+        <activity android:name="com.filmseven.htmlparse.addmovie" />
+        <activity android:name="com.filmseven.htmlparse.MovieEdit" />
+
+        <activity android:name="com.filmseven.htmlparse.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.filmseven.htmlparse.moviedetay" />
+    </application>
+
+</manifest>
