@@ -11,12 +11,14 @@ Android Studio
 
 
 # Program Kullanımı
-* Program ilk açılışta Güncel Filmlerin Listesi Gözükür. 
+* Programın ilk açılışında Uygulamada Bulunan Güncel Filmlerin Listesi Gözükür. 
 * <img src="SS/1.jpg" width="250"> 
 
-* Yan Panelde açılır menümüz görüntülenmektedir.
-* Yan taraftaki menü kullanım kullanım kolaylığı sağlamak için Coğrafi Bölgelere ayrılmıştır
-*  ![logo](/SS/6.png)
+* Sol Tarafta bulunan Menüden Kullanıcı Kayıt İşlemi Gerçekleştirilir.
+* <img src="SS/2.jpg" width="250"> 
+* <img src="SS/3.jpg" width="250"> 
+* Kayıt İşlemi Gerçekleştirildikten Sonra Kullanıcı Giriş Ekranından  Giriş Yapabilir.
+* <img src="SS/4.jpg" width="250"> 
 * Bu Menüden istenilen Ajans seçilerek o ajansa ait güncel desteklerin listelenmesi sağlanır.
 *  ![logo](/SS/2.png)
 * Listelenen desteklerden birine tıklanıldığında ise WebView içerisinde tıklanılan destek programı gösterilir.
