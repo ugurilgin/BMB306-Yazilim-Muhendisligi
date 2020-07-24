@@ -16,7 +16,7 @@ Android Studio
 
 * Sol Tarafta bulunan Menüden Kullanıcı Kayıt İşlemi Gerçekleştirilir.
 * <img src="SS/2.jpg" width="250"> 
-* <img src="SS/3.jpg" width="250"> 
+ <img src="SS/3.jpg" width="250"> 
 * Kayıt İşlemi Gerçekleştirildikten Sonra Kullanıcı Giriş Ekranından  Giriş Yapabilir.
 * <img src="SS/4.jpg" width="250"> 
 * Bu Menüden istenilen Ajans seçilerek o ajansa ait güncel desteklerin listelenmesi sağlanır.
