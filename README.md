@@ -1,4 +1,4 @@
-![logo](/Filmseven/app/src/main/res/drawable/menu.png)
+<img src="/Filmseven/app/src/main/res/drawable/menu.png" width="200">
 # BMB306- Yazılım Mühendisliği FilmSeven Mobil Film Arşiv Uygulaması
 
 Filmseven mobil arşiv uygulaması sayesinde vizyondaki filmlerin takibi sağlandı.
