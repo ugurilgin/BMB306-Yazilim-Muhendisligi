@@ -43,5 +43,4 @@ Android Studio
 * Şeyda Koçak
 * Vildan Öt
 * Muhammed Erdem Anaçoğlu
-* Burak Arslan
 
